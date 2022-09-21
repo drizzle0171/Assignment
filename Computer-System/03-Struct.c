@@ -105,30 +105,36 @@ Node *multiply(Node *a, Node *b){
                 node = first;
             }
             else {
-                while (node){
-                    printf("%d %d\n", sum_deg, node->degree);
+                while (1){
+                printf("%d %d\n", node ->degree, node ->coefficient);
+                printf("%d %d\n", result_pt->degree, result_pt->coefficient);
                     if (sum_deg == node->degree){
                         (node -> coefficient) += multiply_coef;
+                        last = node;
+                        break;
                     }
                     else{
-                        if (last == NULL){
-                            first -> next = result_pt;
-                            result_pt -> prev = first;
+                        if (node -> next == NULL){
+                            if (last == NULL){
+                                first -> next = result_pt;
+                                result_pt -> prev = first;
+                            }
+                            else {
+                                result_pt -> prev = last;
+                                last -> next = result_pt;
+                                last = result_pt;
+                                last -> prev = node;
+                            };
+                            break;
                         }
-                        else {
-                            result_pt -> prev = last;
-                            last -> next = result_pt;
-                        };
                     }
                     temp2 = node;
                     node = temp2 -> next;
                 };
             };
-            last = result_pt;
             temp = pt2;
             pt2 = temp -> next;
             node = first;
-            
         }
         temp = pt1;
         pt1 = temp -> next;
