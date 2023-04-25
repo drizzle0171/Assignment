@@ -1,0 +1,135 @@
+
+========================= Start Train for 공주 =========================
+
+> > Saving model of 공주
+Epoch: 1 | Train Loss:0.07165 Vali Loss: 0.06593 Test Loss: 0.05006
+
+> > Saving model of 공주
+Epoch: 2 | Train Loss:0.05715 Vali Loss: 0.06414 Test Loss: 0.04558
+
+> > Saving model of 공주
+Epoch: 3 | Train Loss:0.05564 Vali Loss: 0.06392 Test Loss: 0.04446
+
+> > Saving model of 공주
+Epoch: 4 | Train Loss:0.05503 Vali Loss: 0.06353 Test Loss: 0.04460
+
+> > Saving model of 공주
+Epoch: 5 | Train Loss:0.05475 Vali Loss: 0.06335 Test Loss: 0.04351
+
+> > Early Stopping | 1 / 5
+Epoch: 6 | Train Loss:0.05450 Vali Loss: 0.06335 Test Loss: 0.04355
+
+> > Saving model of 공주
+Epoch: 7 | Train Loss:0.05428 Vali Loss: 0.06316 Test Loss: 0.04364
+
+> > Saving model of 공주
+Epoch: 8 | Train Loss:0.05408 Vali Loss: 0.06308 Test Loss: 0.04321
+
+> > Early Stopping | 1 / 5
+Epoch: 9 | Train Loss:0.05391 Vali Loss: 0.06310 Test Loss: 0.04301
+
+> > Early Stopping | 2 / 5
+Epoch: 10 | Train Loss:0.05369 Vali Loss: 0.06311 Test Loss: 0.04290
+
+> > Early Stopping | 3 / 5
+Epoch: 11 | Train Loss:0.05352 Vali Loss: 0.06317 Test Loss: 0.04386
+
+> > Early Stopping | 4 / 5
+Epoch: 12 | Train Loss:0.05336 Vali Loss: 0.06332 Test Loss: 0.04332
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 노은동 =========================
+
+> > Saving model of 노은동
+Epoch: 1 | Train Loss:0.06200 Vali Loss: 0.05070 Test Loss: 0.03916
+
+> > Early Stopping | 1 / 5
+Epoch: 2 | Train Loss:0.05078 Vali Loss: 0.05149 Test Loss: 0.03656
+
+> > Early Stopping | 2 / 5
+Epoch: 3 | Train Loss:0.04996 Vali Loss: 0.05349 Test Loss: 0.03798
+
+> > Early Stopping | 3 / 5
+Epoch: 4 | Train Loss:0.04963 Vali Loss: 0.05265 Test Loss: 0.03704
+
+> > Early Stopping | 4 / 5
+Epoch: 5 | Train Loss:0.04939 Vali Loss: 0.05293 Test Loss: 0.03725
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 논산 =========================
+
+> > Saving model of 논산
+Epoch: 1 | Train Loss:0.06699 Vali Loss: 0.05712 Test Loss: 0.05011
+
+> > Saving model of 논산
+Epoch: 2 | Train Loss:0.05466 Vali Loss: 0.05683 Test Loss: 0.04812
+
+> > Saving model of 논산
+Epoch: 3 | Train Loss:0.05373 Vali Loss: 0.05638 Test Loss: 0.04749
+
+> > Saving model of 논산
+Epoch: 4 | Train Loss:0.05334 Vali Loss: 0.05635 Test Loss: 0.04731
+
+> > Early Stopping | 1 / 5
+Epoch: 5 | Train Loss:0.05309 Vali Loss: 0.05643 Test Loss: 0.04722
+
+> > Saving model of 논산
+Epoch: 6 | Train Loss:0.05288 Vali Loss: 0.05614 Test Loss: 0.04684
+
+> > Saving model of 논산
+Epoch: 7 | Train Loss:0.05274 Vali Loss: 0.05589 Test Loss: 0.04650
+
+> > Saving model of 논산
+Epoch: 8 | Train Loss:0.05258 Vali Loss: 0.05575 Test Loss: 0.04648
+
+> > Early Stopping | 1 / 5
+Epoch: 9 | Train Loss:0.05245 Vali Loss: 0.05631 Test Loss: 0.04667
+
+> > Early Stopping | 2 / 5
+Epoch: 10 | Train Loss:0.05235 Vali Loss: 0.05599 Test Loss: 0.04644
+
+> > Early Stopping | 3 / 5
+Epoch: 11 | Train Loss:0.05227 Vali Loss: 0.05635 Test Loss: 0.04647
+
+> > Early Stopping | 4 / 5
+Epoch: 12 | Train Loss:0.05215 Vali Loss: 0.05589 Test Loss: 0.04620
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 대천2동 =========================
+
+> > Saving model of 대천2동
+Epoch: 1 | Train Loss:0.06767 Vali Loss: 0.06484 Test Loss: 0.04870
+
+> > Saving model of 대천2동
+Epoch: 2 | Train Loss:0.05629 Vali Loss: 0.06444 Test Loss: 0.04518
+
+> > Saving model of 대천2동
+Epoch: 3 | Train Loss:0.05476 Vali Loss: 0.06390 Test Loss: 0.04468
+
+> > Early Stopping | 1 / 5
+Epoch: 4 | Train Loss:0.05435 Vali Loss: 0.06424 Test Loss: 0.04461
+
+> > Saving model of 대천2동
+Epoch: 5 | Train Loss:0.05412 Vali Loss: 0.06382 Test Loss: 0.04450
+
+> > Early Stopping | 1 / 5
+Epoch: 6 | Train Loss:0.05394 Vali Loss: 0.06392 Test Loss: 0.04437
+
+> > Saving model of 대천2동
+Epoch: 7 | Train Loss:0.05383 Vali Loss: 0.06363 Test Loss: 0.04450
+

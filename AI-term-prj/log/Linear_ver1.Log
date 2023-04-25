@@ -1,0 +1,958 @@
+
+========================= Start Train for 공주 =========================
+
+> > Saving model of 공주
+Epoch: 1 | Train Loss:0.06398 Vali Loss: 0.06774 Test Loss: 0.04500
+
+> > Saving model of 공주
+Epoch: 2 | Train Loss:0.05262 Vali Loss: 0.06486 Test Loss: 0.04333
+
+> > Saving model of 공주
+Epoch: 3 | Train Loss:0.05169 Vali Loss: 0.06444 Test Loss: 0.04264
+
+> > Saving model of 공주
+Epoch: 4 | Train Loss:0.05121 Vali Loss: 0.06387 Test Loss: 0.04269
+
+> > Saving model of 공주
+Epoch: 5 | Train Loss:0.05090 Vali Loss: 0.06323 Test Loss: 0.04188
+
+> > Saving model of 공주
+Epoch: 6 | Train Loss:0.05061 Vali Loss: 0.06305 Test Loss: 0.04176
+
+> > Saving model of 공주
+Epoch: 7 | Train Loss:0.05040 Vali Loss: 0.06283 Test Loss: 0.04163
+
+> > Saving model of 공주
+Epoch: 8 | Train Loss:0.05021 Vali Loss: 0.06245 Test Loss: 0.04146
+
+> > Early Stopping | 1 / 5
+Epoch: 9 | Train Loss:0.05008 Vali Loss: 0.06272 Test Loss: 0.04136
+
+> > Saving model of 공주
+Epoch: 10 | Train Loss:0.04993 Vali Loss: 0.06237 Test Loss: 0.04130
+
+> > Early Stopping | 1 / 5
+Epoch: 11 | Train Loss:0.04980 Vali Loss: 0.06253 Test Loss: 0.04175
+
+> > Early Stopping | 2 / 5
+Epoch: 12 | Train Loss:0.04970 Vali Loss: 0.06272 Test Loss: 0.04171
+
+> > Early Stopping | 3 / 5
+Epoch: 13 | Train Loss:0.04962 Vali Loss: 0.06266 Test Loss: 0.04131
+
+> > Early Stopping | 4 / 5
+Epoch: 14 | Train Loss:0.04952 Vali Loss: 0.06313 Test Loss: 0.04177
+
+> > Saving model of 공주
+Epoch: 15 | Train Loss:0.04946 Vali Loss: 0.06227 Test Loss: 0.04100
+
+> > Early Stopping | 1 / 5
+Epoch: 16 | Train Loss:0.04939 Vali Loss: 0.06285 Test Loss: 0.04121
+
+> > Early Stopping | 2 / 5
+Epoch: 17 | Train Loss:0.04927 Vali Loss: 0.06281 Test Loss: 0.04127
+
+> > Early Stopping | 3 / 5
+Epoch: 18 | Train Loss:0.04924 Vali Loss: 0.06241 Test Loss: 0.04092
+
+> > Early Stopping | 4 / 5
+Epoch: 19 | Train Loss:0.04918 Vali Loss: 0.06346 Test Loss: 0.04154
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 노은동 =========================
+
+> > Saving model of 노은동
+Epoch: 1 | Train Loss:0.05637 Vali Loss: 0.04616 Test Loss: 0.03516
+
+> > Saving model of 노은동
+Epoch: 2 | Train Loss:0.04772 Vali Loss: 0.04511 Test Loss: 0.03399
+
+> > Early Stopping | 1 / 5
+Epoch: 3 | Train Loss:0.04702 Vali Loss: 0.04690 Test Loss: 0.03489
+
+> > Early Stopping | 2 / 5
+Epoch: 4 | Train Loss:0.04665 Vali Loss: 0.04579 Test Loss: 0.03395
+
+> > Early Stopping | 3 / 5
+Epoch: 5 | Train Loss:0.04639 Vali Loss: 0.04624 Test Loss: 0.03407
+
+> > Early Stopping | 4 / 5
+Epoch: 6 | Train Loss:0.04619 Vali Loss: 0.04656 Test Loss: 0.03396
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 논산 =========================
+
+> > Saving model of 논산
+Epoch: 1 | Train Loss:0.05894 Vali Loss: 0.05625 Test Loss: 0.04695
+
+> > Saving model of 논산
+Epoch: 2 | Train Loss:0.05045 Vali Loss: 0.05551 Test Loss: 0.04636
+
+> > Early Stopping | 1 / 5
+Epoch: 3 | Train Loss:0.04979 Vali Loss: 0.05590 Test Loss: 0.04634
+
+> > Early Stopping | 2 / 5
+Epoch: 4 | Train Loss:0.04946 Vali Loss: 0.05557 Test Loss: 0.04592
+
+> > Saving model of 논산
+Epoch: 5 | Train Loss:0.04919 Vali Loss: 0.05546 Test Loss: 0.04597
+
+> > Saving model of 논산
+Epoch: 6 | Train Loss:0.04896 Vali Loss: 0.05482 Test Loss: 0.04551
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.04878 Vali Loss: 0.05544 Test Loss: 0.04557
+
+> > Early Stopping | 2 / 5
+Epoch: 8 | Train Loss:0.04864 Vali Loss: 0.05601 Test Loss: 0.04580
+
+> > Early Stopping | 3 / 5
+Epoch: 9 | Train Loss:0.04853 Vali Loss: 0.05494 Test Loss: 0.04538
+
+> > Saving model of 논산
+Epoch: 10 | Train Loss:0.04843 Vali Loss: 0.05455 Test Loss: 0.04520
+
+> > Early Stopping | 1 / 5
+Epoch: 11 | Train Loss:0.04837 Vali Loss: 0.05473 Test Loss: 0.04525
+
+> > Early Stopping | 2 / 5
+Epoch: 12 | Train Loss:0.04826 Vali Loss: 0.05479 Test Loss: 0.04524
+
+> > Saving model of 논산
+Epoch: 13 | Train Loss:0.04822 Vali Loss: 0.05454 Test Loss: 0.04516
+
+> > Saving model of 논산
+Epoch: 14 | Train Loss:0.04812 Vali Loss: 0.05414 Test Loss: 0.04521
+
+> > Early Stopping | 1 / 5
+Epoch: 15 | Train Loss:0.04807 Vali Loss: 0.05476 Test Loss: 0.04518
+
+> > Early Stopping | 2 / 5
+Epoch: 16 | Train Loss:0.04798 Vali Loss: 0.05423 Test Loss: 0.04504
+
+> > Early Stopping | 3 / 5
+Epoch: 17 | Train Loss:0.04793 Vali Loss: 0.05482 Test Loss: 0.04511
+
+> > Early Stopping | 4 / 5
+Epoch: 18 | Train Loss:0.04787 Vali Loss: 0.05430 Test Loss: 0.04508
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 대천2동 =========================
+
+> > Saving model of 대천2동
+Epoch: 1 | Train Loss:0.06171 Vali Loss: 0.06655 Test Loss: 0.04475
+
+> > Saving model of 대천2동
+Epoch: 2 | Train Loss:0.05250 Vali Loss: 0.06497 Test Loss: 0.04336
+
+> > Saving model of 대천2동
+Epoch: 3 | Train Loss:0.05179 Vali Loss: 0.06392 Test Loss: 0.04286
+
+> > Saving model of 대천2동
+Epoch: 4 | Train Loss:0.05139 Vali Loss: 0.06337 Test Loss: 0.04270
+
+> > Early Stopping | 1 / 5
+Epoch: 5 | Train Loss:0.05109 Vali Loss: 0.06351 Test Loss: 0.04247
+
+> > Saving model of 대천2동
+Epoch: 6 | Train Loss:0.05090 Vali Loss: 0.06287 Test Loss: 0.04229
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.05077 Vali Loss: 0.06345 Test Loss: 0.04240
+
+> > Early Stopping | 2 / 5
+Epoch: 8 | Train Loss:0.05061 Vali Loss: 0.06291 Test Loss: 0.04228
+
+> > Saving model of 대천2동
+Epoch: 9 | Train Loss:0.05048 Vali Loss: 0.06255 Test Loss: 0.04236
+
+> > Early Stopping | 1 / 5
+Epoch: 10 | Train Loss:0.05038 Vali Loss: 0.06310 Test Loss: 0.04233
+
+> > Early Stopping | 2 / 5
+Epoch: 11 | Train Loss:0.05029 Vali Loss: 0.06272 Test Loss: 0.04222
+
+> > Saving model of 대천2동
+Epoch: 12 | Train Loss:0.05020 Vali Loss: 0.06247 Test Loss: 0.04256
+
+> > Early Stopping | 1 / 5
+Epoch: 13 | Train Loss:0.05012 Vali Loss: 0.06314 Test Loss: 0.04219
+
+> > Early Stopping | 2 / 5
+Epoch: 14 | Train Loss:0.05005 Vali Loss: 0.06252 Test Loss: 0.04218
+
+> > Saving model of 대천2동
+Epoch: 15 | Train Loss:0.04999 Vali Loss: 0.06230 Test Loss: 0.04231
+
+> > Early Stopping | 1 / 5
+Epoch: 16 | Train Loss:0.04990 Vali Loss: 0.06234 Test Loss: 0.04231
+
+> > Early Stopping | 2 / 5
+Epoch: 17 | Train Loss:0.04984 Vali Loss: 0.06261 Test Loss: 0.04225
+
+> > Early Stopping | 3 / 5
+Epoch: 18 | Train Loss:0.04978 Vali Loss: 0.06253 Test Loss: 0.04231
+
+> > Early Stopping | 4 / 5
+Epoch: 19 | Train Loss:0.04972 Vali Loss: 0.06295 Test Loss: 0.04224
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 독곶리 =========================
+
+> > Saving model of 독곶리
+Epoch: 1 | Train Loss:0.05356 Vali Loss: 0.06389 Test Loss: 0.04610
+
+> > Saving model of 독곶리
+Epoch: 2 | Train Loss:0.04744 Vali Loss: 0.06236 Test Loss: 0.04531
+
+> > Saving model of 독곶리
+Epoch: 3 | Train Loss:0.04692 Vali Loss: 0.06181 Test Loss: 0.04470
+
+> > Saving model of 독곶리
+Epoch: 4 | Train Loss:0.04666 Vali Loss: 0.06143 Test Loss: 0.04462
+
+> > Saving model of 독곶리
+Epoch: 5 | Train Loss:0.04651 Vali Loss: 0.06136 Test Loss: 0.04480
+
+> > Early Stopping | 1 / 5
+Epoch: 6 | Train Loss:0.04638 Vali Loss: 0.06141 Test Loss: 0.04424
+
+> > Saving model of 독곶리
+Epoch: 7 | Train Loss:0.04631 Vali Loss: 0.06124 Test Loss: 0.04407
+
+> > Saving model of 독곶리
+Epoch: 8 | Train Loss:0.04620 Vali Loss: 0.06122 Test Loss: 0.04462
+
+> > Early Stopping | 1 / 5
+Epoch: 9 | Train Loss:0.04612 Vali Loss: 0.06122 Test Loss: 0.04397
+
+> > Saving model of 독곶리
+Epoch: 10 | Train Loss:0.04604 Vali Loss: 0.06106 Test Loss: 0.04471
+
+> > Early Stopping | 1 / 5
+Epoch: 11 | Train Loss:0.04597 Vali Loss: 0.06110 Test Loss: 0.04436
+
+> > Early Stopping | 2 / 5
+Epoch: 12 | Train Loss:0.04588 Vali Loss: 0.06109 Test Loss: 0.04404
+
+> > Early Stopping | 3 / 5
+Epoch: 13 | Train Loss:0.04580 Vali Loss: 0.06138 Test Loss: 0.04368
+
+> > Early Stopping | 4 / 5
+Epoch: 14 | Train Loss:0.04576 Vali Loss: 0.06122 Test Loss: 0.04386
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 동문동 =========================
+
+> > Saving model of 동문동
+Epoch: 1 | Train Loss:0.06698 Vali Loss: 0.08676 Test Loss: 0.05923
+
+> > Saving model of 동문동
+Epoch: 2 | Train Loss:0.05933 Vali Loss: 0.08478 Test Loss: 0.05753
+
+> > Saving model of 동문동
+Epoch: 3 | Train Loss:0.05852 Vali Loss: 0.08419 Test Loss: 0.05709
+
+> > Saving model of 동문동
+Epoch: 4 | Train Loss:0.05813 Vali Loss: 0.08401 Test Loss: 0.05666
+
+> > Saving model of 동문동
+Epoch: 5 | Train Loss:0.05790 Vali Loss: 0.08394 Test Loss: 0.05648
+
+> > Saving model of 동문동
+Epoch: 6 | Train Loss:0.05771 Vali Loss: 0.08387 Test Loss: 0.05654
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.05755 Vali Loss: 0.08388 Test Loss: 0.05632
+
+> > Saving model of 동문동
+Epoch: 8 | Train Loss:0.05742 Vali Loss: 0.08361 Test Loss: 0.05633
+
+> > Early Stopping | 1 / 5
+Epoch: 9 | Train Loss:0.05732 Vali Loss: 0.08398 Test Loss: 0.05612
+
+> > Early Stopping | 2 / 5
+Epoch: 10 | Train Loss:0.05721 Vali Loss: 0.08392 Test Loss: 0.05621
+
+> > Early Stopping | 3 / 5
+Epoch: 11 | Train Loss:0.05714 Vali Loss: 0.08393 Test Loss: 0.05593
+
+> > Early Stopping | 4 / 5
+Epoch: 12 | Train Loss:0.05704 Vali Loss: 0.08426 Test Loss: 0.05598
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 모종동 =========================
+
+> > Saving model of 모종동
+Epoch: 1 | Train Loss:0.06727 Vali Loss: 0.06806 Test Loss: 0.04402
+
+> > Saving model of 모종동
+Epoch: 2 | Train Loss:0.05688 Vali Loss: 0.06657 Test Loss: 0.04294
+
+> > Saving model of 모종동
+Epoch: 3 | Train Loss:0.05606 Vali Loss: 0.06535 Test Loss: 0.04240
+
+> > Saving model of 모종동
+Epoch: 4 | Train Loss:0.05562 Vali Loss: 0.06527 Test Loss: 0.04232
+
+> > Saving model of 모종동
+Epoch: 5 | Train Loss:0.05529 Vali Loss: 0.06472 Test Loss: 0.04213
+
+> > Saving model of 모종동
+Epoch: 6 | Train Loss:0.05504 Vali Loss: 0.06429 Test Loss: 0.04206
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.05483 Vali Loss: 0.06442 Test Loss: 0.04210
+
+> > Early Stopping | 2 / 5
+Epoch: 8 | Train Loss:0.05468 Vali Loss: 0.06442 Test Loss: 0.04208
+
+> > Saving model of 모종동
+Epoch: 9 | Train Loss:0.05455 Vali Loss: 0.06424 Test Loss: 0.04207
+
+> > Early Stopping | 1 / 5
+Epoch: 10 | Train Loss:0.05441 Vali Loss: 0.06455 Test Loss: 0.04214
+
+> > Early Stopping | 2 / 5
+Epoch: 11 | Train Loss:0.05429 Vali Loss: 0.06452 Test Loss: 0.04211
+
+> > Early Stopping | 3 / 5
+Epoch: 12 | Train Loss:0.05416 Vali Loss: 0.06445 Test Loss: 0.04213
+
+> > Early Stopping | 4 / 5
+Epoch: 13 | Train Loss:0.05407 Vali Loss: 0.06435 Test Loss: 0.04212
+
+> > Saving model of 모종동
+Epoch: 14 | Train Loss:0.05401 Vali Loss: 0.06392 Test Loss: 0.04197
+
+> > Saving model of 모종동
+Epoch: 15 | Train Loss:0.05390 Vali Loss: 0.06364 Test Loss: 0.04188
+
+> > Early Stopping | 1 / 5
+Epoch: 16 | Train Loss:0.05381 Vali Loss: 0.06477 Test Loss: 0.04227
+
+> > Early Stopping | 2 / 5
+Epoch: 17 | Train Loss:0.05372 Vali Loss: 0.06423 Test Loss: 0.04221
+
+> > Early Stopping | 3 / 5
+Epoch: 18 | Train Loss:0.05363 Vali Loss: 0.06406 Test Loss: 0.04205
+
+> > Early Stopping | 4 / 5
+Epoch: 19 | Train Loss:0.05355 Vali Loss: 0.06414 Test Loss: 0.04216
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 문창동 =========================
+
+> > Saving model of 문창동
+Epoch: 1 | Train Loss:0.06129 Vali Loss: 0.05690 Test Loss: 0.04213
+
+> > Saving model of 문창동
+Epoch: 2 | Train Loss:0.05378 Vali Loss: 0.05543 Test Loss: 0.04118
+
+> > Saving model of 문창동
+Epoch: 3 | Train Loss:0.05296 Vali Loss: 0.05506 Test Loss: 0.04095
+
+> > Saving model of 문창동
+Epoch: 4 | Train Loss:0.05255 Vali Loss: 0.05481 Test Loss: 0.04053
+
+> > Early Stopping | 1 / 5
+Epoch: 5 | Train Loss:0.05225 Vali Loss: 0.05489 Test Loss: 0.04027
+
+> > Saving model of 문창동
+Epoch: 6 | Train Loss:0.05197 Vali Loss: 0.05448 Test Loss: 0.04008
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.05173 Vali Loss: 0.05464 Test Loss: 0.04000
+
+> > Early Stopping | 2 / 5
+Epoch: 8 | Train Loss:0.05156 Vali Loss: 0.05453 Test Loss: 0.03987
+
+> > Early Stopping | 3 / 5
+Epoch: 9 | Train Loss:0.05141 Vali Loss: 0.05477 Test Loss: 0.03985
+
+> > Early Stopping | 4 / 5
+Epoch: 10 | Train Loss:0.05129 Vali Loss: 0.05515 Test Loss: 0.03988
+
+> > Saving model of 문창동
+Epoch: 11 | Train Loss:0.05117 Vali Loss: 0.05438 Test Loss: 0.03970
+
+> > Early Stopping | 1 / 5
+Epoch: 12 | Train Loss:0.05108 Vali Loss: 0.05511 Test Loss: 0.03997
+
+> > Early Stopping | 2 / 5
+Epoch: 13 | Train Loss:0.05102 Vali Loss: 0.05480 Test Loss: 0.03973
+
+> > Early Stopping | 3 / 5
+Epoch: 14 | Train Loss:0.05093 Vali Loss: 0.05492 Test Loss: 0.03991
+
+> > Early Stopping | 4 / 5
+Epoch: 15 | Train Loss:0.05085 Vali Loss: 0.05517 Test Loss: 0.03983
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 성성동 =========================
+
+> > Saving model of 성성동
+Epoch: 1 | Train Loss:0.07989 Vali Loss: 0.07735 Test Loss: 0.05359
+
+> > Saving model of 성성동
+Epoch: 2 | Train Loss:0.06833 Vali Loss: 0.07577 Test Loss: 0.05315
+
+> > Saving model of 성성동
+Epoch: 3 | Train Loss:0.06754 Vali Loss: 0.07426 Test Loss: 0.05166
+
+> > Saving model of 성성동
+Epoch: 4 | Train Loss:0.06712 Vali Loss: 0.07404 Test Loss: 0.05070
+
+> > Saving model of 성성동
+Epoch: 5 | Train Loss:0.06682 Vali Loss: 0.07355 Test Loss: 0.05058
+
+> > Early Stopping | 1 / 5
+Epoch: 6 | Train Loss:0.06666 Vali Loss: 0.07400 Test Loss: 0.05115
+
+> > Saving model of 성성동
+Epoch: 7 | Train Loss:0.06646 Vali Loss: 0.07345 Test Loss: 0.05075
+
+> > Early Stopping | 1 / 5
+Epoch: 8 | Train Loss:0.06631 Vali Loss: 0.07350 Test Loss: 0.05047
+
+> > Saving model of 성성동
+Epoch: 9 | Train Loss:0.06616 Vali Loss: 0.07341 Test Loss: 0.05011
+
+> > Early Stopping | 1 / 5
+Epoch: 10 | Train Loss:0.06603 Vali Loss: 0.07372 Test Loss: 0.05092
+
+> > Early Stopping | 2 / 5
+Epoch: 11 | Train Loss:0.06588 Vali Loss: 0.07451 Test Loss: 0.05189
+
+> > Early Stopping | 3 / 5
+Epoch: 12 | Train Loss:0.06576 Vali Loss: 0.07343 Test Loss: 0.04990
+
+> > Saving model of 성성동
+Epoch: 13 | Train Loss:0.06560 Vali Loss: 0.07311 Test Loss: 0.04950
+
+> > Early Stopping | 1 / 5
+Epoch: 14 | Train Loss:0.06550 Vali Loss: 0.07383 Test Loss: 0.05063
+
+> > Saving model of 성성동
+Epoch: 15 | Train Loss:0.06540 Vali Loss: 0.07282 Test Loss: 0.04889
+
+> > Early Stopping | 1 / 5
+Epoch: 16 | Train Loss:0.06530 Vali Loss: 0.07319 Test Loss: 0.04937
+
+> > Early Stopping | 2 / 5
+Epoch: 17 | Train Loss:0.06520 Vali Loss: 0.07353 Test Loss: 0.05027
+
+> > Early Stopping | 3 / 5
+Epoch: 18 | Train Loss:0.06508 Vali Loss: 0.07317 Test Loss: 0.04969
+
+> > Early Stopping | 4 / 5
+Epoch: 19 | Train Loss:0.06502 Vali Loss: 0.07298 Test Loss: 0.04913
+
+> > Saving model of 성성동
+Epoch: 20 | Train Loss:0.06495 Vali Loss: 0.07273 Test Loss: 0.04938
+
+> > Early Stopping | 1 / 5
+Epoch: 21 | Train Loss:0.06482 Vali Loss: 0.07304 Test Loss: 0.04969
+
+> > Early Stopping | 2 / 5
+Epoch: 22 | Train Loss:0.06474 Vali Loss: 0.07356 Test Loss: 0.05015
+
+> > Early Stopping | 3 / 5
+Epoch: 23 | Train Loss:0.06466 Vali Loss: 0.07302 Test Loss: 0.04939
+
+> > Saving model of 성성동
+Epoch: 24 | Train Loss:0.06459 Vali Loss: 0.07270 Test Loss: 0.04900
+
+> > Early Stopping | 1 / 5
+Epoch: 25 | Train Loss:0.06449 Vali Loss: 0.07282 Test Loss: 0.04933
+
+> > Early Stopping | 2 / 5
+Epoch: 26 | Train Loss:0.06446 Vali Loss: 0.07304 Test Loss: 0.04989
+
+> > Early Stopping | 3 / 5
+Epoch: 27 | Train Loss:0.06434 Vali Loss: 0.07331 Test Loss: 0.05003
+
+> > Saving model of 성성동
+Epoch: 28 | Train Loss:0.06432 Vali Loss: 0.07265 Test Loss: 0.04913
+
+> > Early Stopping | 1 / 5
+Epoch: 29 | Train Loss:0.06423 Vali Loss: 0.07307 Test Loss: 0.04976
+
+> > Early Stopping | 2 / 5
+Epoch: 30 | Train Loss:0.06412 Vali Loss: 0.07288 Test Loss: 0.04967
+
+=========================================================================
+
+
+========================= Start Train for 신방동 =========================
+
+> > Saving model of 신방동
+Epoch: 1 | Train Loss:0.07702 Vali Loss: 0.08259 Test Loss: 0.06005
+
+> > Saving model of 신방동
+Epoch: 2 | Train Loss:0.06465 Vali Loss: 0.08023 Test Loss: 0.05882
+
+> > Saving model of 신방동
+Epoch: 3 | Train Loss:0.06400 Vali Loss: 0.07967 Test Loss: 0.05819
+
+> > Saving model of 신방동
+Epoch: 4 | Train Loss:0.06368 Vali Loss: 0.07954 Test Loss: 0.05811
+
+> > Saving model of 신방동
+Epoch: 5 | Train Loss:0.06339 Vali Loss: 0.07880 Test Loss: 0.05709
+
+> > Early Stopping | 1 / 5
+Epoch: 6 | Train Loss:0.06322 Vali Loss: 0.07928 Test Loss: 0.05753
+
+> > Early Stopping | 2 / 5
+Epoch: 7 | Train Loss:0.06303 Vali Loss: 0.07915 Test Loss: 0.05721
+
+> > Early Stopping | 3 / 5
+Epoch: 8 | Train Loss:0.06286 Vali Loss: 0.07893 Test Loss: 0.05707
+
+> > Saving model of 신방동
+Epoch: 9 | Train Loss:0.06273 Vali Loss: 0.07833 Test Loss: 0.05653
+
+> > Early Stopping | 1 / 5
+Epoch: 10 | Train Loss:0.06262 Vali Loss: 0.07940 Test Loss: 0.05745
+
+> > Early Stopping | 2 / 5
+Epoch: 11 | Train Loss:0.06248 Vali Loss: 0.07907 Test Loss: 0.05744
+
+> > Early Stopping | 3 / 5
+Epoch: 12 | Train Loss:0.06239 Vali Loss: 0.07861 Test Loss: 0.05666
+
+> > Saving model of 신방동
+Epoch: 13 | Train Loss:0.06227 Vali Loss: 0.07828 Test Loss: 0.05682
+
+> > Early Stopping | 1 / 5
+Epoch: 14 | Train Loss:0.06222 Vali Loss: 0.07855 Test Loss: 0.05701
+
+> > Early Stopping | 2 / 5
+Epoch: 15 | Train Loss:0.06214 Vali Loss: 0.07846 Test Loss: 0.05675
+
+> > Saving model of 신방동
+Epoch: 16 | Train Loss:0.06202 Vali Loss: 0.07812 Test Loss: 0.05640
+
+> > Early Stopping | 1 / 5
+Epoch: 17 | Train Loss:0.06199 Vali Loss: 0.07909 Test Loss: 0.05746
+
+> > Early Stopping | 2 / 5
+Epoch: 18 | Train Loss:0.06192 Vali Loss: 0.07823 Test Loss: 0.05666
+
+> > Early Stopping | 3 / 5
+Epoch: 19 | Train Loss:0.06183 Vali Loss: 0.07827 Test Loss: 0.05683
+
+> > Early Stopping | 4 / 5
+Epoch: 20 | Train Loss:0.06173 Vali Loss: 0.07950 Test Loss: 0.05726
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 신흥동 =========================
+
+> > Saving model of 신흥동
+Epoch: 1 | Train Loss:0.06603 Vali Loss: 0.06779 Test Loss: 0.04730
+
+> > Saving model of 신흥동
+Epoch: 2 | Train Loss:0.05477 Vali Loss: 0.06692 Test Loss: 0.04773
+
+> > Saving model of 신흥동
+Epoch: 3 | Train Loss:0.05387 Vali Loss: 0.06446 Test Loss: 0.04517
+
+> > Saving model of 신흥동
+Epoch: 4 | Train Loss:0.05347 Vali Loss: 0.06428 Test Loss: 0.04508
+
+> > Saving model of 신흥동
+Epoch: 5 | Train Loss:0.05321 Vali Loss: 0.06422 Test Loss: 0.04436
+
+> > Saving model of 신흥동
+Epoch: 6 | Train Loss:0.05298 Vali Loss: 0.06399 Test Loss: 0.04464
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.05278 Vali Loss: 0.06497 Test Loss: 0.04517
+
+> > Early Stopping | 2 / 5
+Epoch: 8 | Train Loss:0.05262 Vali Loss: 0.06443 Test Loss: 0.04470
+
+> > Early Stopping | 3 / 5
+Epoch: 9 | Train Loss:0.05245 Vali Loss: 0.06416 Test Loss: 0.04434
+
+> > Saving model of 신흥동
+Epoch: 10 | Train Loss:0.05233 Vali Loss: 0.06362 Test Loss: 0.04367
+
+> > Early Stopping | 1 / 5
+Epoch: 11 | Train Loss:0.05220 Vali Loss: 0.06388 Test Loss: 0.04361
+
+> > Early Stopping | 2 / 5
+Epoch: 12 | Train Loss:0.05213 Vali Loss: 0.06469 Test Loss: 0.04443
+
+> > Early Stopping | 3 / 5
+Epoch: 13 | Train Loss:0.05200 Vali Loss: 0.06384 Test Loss: 0.04368
+
+> > Early Stopping | 4 / 5
+Epoch: 14 | Train Loss:0.05194 Vali Loss: 0.06476 Test Loss: 0.04464
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 아름동 =========================
+
+> > Saving model of 아름동
+Epoch: 1 | Train Loss:0.06258 Vali Loss: 0.06461 Test Loss: 0.04597
+
+> > Saving model of 아름동
+Epoch: 2 | Train Loss:0.05305 Vali Loss: 0.06251 Test Loss: 0.04441
+
+> > Saving model of 아름동
+Epoch: 3 | Train Loss:0.05193 Vali Loss: 0.06226 Test Loss: 0.04390
+
+> > Saving model of 아름동
+Epoch: 4 | Train Loss:0.05151 Vali Loss: 0.06185 Test Loss: 0.04368
+
+> > Saving model of 아름동
+Epoch: 5 | Train Loss:0.05128 Vali Loss: 0.06137 Test Loss: 0.04317
+
+> > Early Stopping | 1 / 5
+Epoch: 6 | Train Loss:0.05108 Vali Loss: 0.06159 Test Loss: 0.04318
+
+> > Early Stopping | 2 / 5
+Epoch: 7 | Train Loss:0.05088 Vali Loss: 0.06185 Test Loss: 0.04320
+
+> > Early Stopping | 3 / 5
+Epoch: 8 | Train Loss:0.05075 Vali Loss: 0.06147 Test Loss: 0.04291
+
+> > Saving model of 아름동
+Epoch: 9 | Train Loss:0.05067 Vali Loss: 0.06117 Test Loss: 0.04253
+
+> > Early Stopping | 1 / 5
+Epoch: 10 | Train Loss:0.05054 Vali Loss: 0.06167 Test Loss: 0.04307
+
+> > Early Stopping | 2 / 5
+Epoch: 11 | Train Loss:0.05045 Vali Loss: 0.06136 Test Loss: 0.04248
+
+> > Early Stopping | 3 / 5
+Epoch: 12 | Train Loss:0.05033 Vali Loss: 0.06164 Test Loss: 0.04258
+
+> > Early Stopping | 4 / 5
+Epoch: 13 | Train Loss:0.05025 Vali Loss: 0.06148 Test Loss: 0.04259
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 예산군 =========================
+
+> > Saving model of 예산군
+Epoch: 1 | Train Loss:0.06187 Vali Loss: 0.07281 Test Loss: 0.03928
+
+> > Saving model of 예산군
+Epoch: 2 | Train Loss:0.05278 Vali Loss: 0.07084 Test Loss: 0.03915
+
+> > Saving model of 예산군
+Epoch: 3 | Train Loss:0.05223 Vali Loss: 0.07052 Test Loss: 0.03922
+
+> > Saving model of 예산군
+Epoch: 4 | Train Loss:0.05192 Vali Loss: 0.06981 Test Loss: 0.03862
+
+> > Early Stopping | 1 / 5
+Epoch: 5 | Train Loss:0.05171 Vali Loss: 0.07036 Test Loss: 0.03941
+
+> > Saving model of 예산군
+Epoch: 6 | Train Loss:0.05157 Vali Loss: 0.06930 Test Loss: 0.03863
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.05143 Vali Loss: 0.06947 Test Loss: 0.03851
+
+> > Early Stopping | 2 / 5
+Epoch: 8 | Train Loss:0.05134 Vali Loss: 0.06941 Test Loss: 0.03873
+
+> > Saving model of 예산군
+Epoch: 9 | Train Loss:0.05121 Vali Loss: 0.06901 Test Loss: 0.03806
+
+> > Saving model of 예산군
+Epoch: 10 | Train Loss:0.05113 Vali Loss: 0.06893 Test Loss: 0.03833
+
+> > Early Stopping | 1 / 5
+Epoch: 11 | Train Loss:0.05106 Vali Loss: 0.06903 Test Loss: 0.03818
+
+> > Saving model of 예산군
+Epoch: 12 | Train Loss:0.05101 Vali Loss: 0.06884 Test Loss: 0.03823
+
+> > Early Stopping | 1 / 5
+Epoch: 13 | Train Loss:0.05092 Vali Loss: 0.06899 Test Loss: 0.03780
+
+> > Saving model of 예산군
+Epoch: 14 | Train Loss:0.05088 Vali Loss: 0.06882 Test Loss: 0.03789
+
+> > Saving model of 예산군
+Epoch: 15 | Train Loss:0.05085 Vali Loss: 0.06872 Test Loss: 0.03788
+
+> > Saving model of 예산군
+Epoch: 16 | Train Loss:0.05075 Vali Loss: 0.06854 Test Loss: 0.03774
+
+> > Early Stopping | 1 / 5
+Epoch: 17 | Train Loss:0.05070 Vali Loss: 0.06865 Test Loss: 0.03820
+
+> > Saving model of 예산군
+Epoch: 18 | Train Loss:0.05065 Vali Loss: 0.06825 Test Loss: 0.03773
+
+> > Early Stopping | 1 / 5
+Epoch: 19 | Train Loss:0.05059 Vali Loss: 0.06844 Test Loss: 0.03784
+
+> > Early Stopping | 2 / 5
+Epoch: 20 | Train Loss:0.05052 Vali Loss: 0.06831 Test Loss: 0.03816
+
+> > Early Stopping | 3 / 5
+Epoch: 21 | Train Loss:0.05052 Vali Loss: 0.06920 Test Loss: 0.03886
+
+> > Early Stopping | 4 / 5
+Epoch: 22 | Train Loss:0.05046 Vali Loss: 0.06883 Test Loss: 0.03856
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 읍내동 =========================
+
+> > Saving model of 읍내동
+Epoch: 1 | Train Loss:0.07036 Vali Loss: 0.05882 Test Loss: 0.04772
+
+> > Early Stopping | 1 / 5
+Epoch: 2 | Train Loss:0.06183 Vali Loss: 0.05942 Test Loss: 0.04799
+
+> > Early Stopping | 2 / 5
+Epoch: 3 | Train Loss:0.06118 Vali Loss: 0.05956 Test Loss: 0.04771
+
+> > Early Stopping | 3 / 5
+Epoch: 4 | Train Loss:0.06085 Vali Loss: 0.05990 Test Loss: 0.04789
+
+> > Early Stopping | 4 / 5
+Epoch: 5 | Train Loss:0.06059 Vali Loss: 0.05953 Test Loss: 0.04755
+
+> > Saving model of 읍내동
+Epoch: 6 | Train Loss:0.06042 Vali Loss: 0.05810 Test Loss: 0.04655
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.06026 Vali Loss: 0.05917 Test Loss: 0.04721
+
+> > Early Stopping | 2 / 5
+Epoch: 8 | Train Loss:0.06013 Vali Loss: 0.05891 Test Loss: 0.04679
+
+> > Early Stopping | 3 / 5
+Epoch: 9 | Train Loss:0.06003 Vali Loss: 0.05847 Test Loss: 0.04678
+
+> > Early Stopping | 4 / 5
+Epoch: 10 | Train Loss:0.05992 Vali Loss: 0.05850 Test Loss: 0.04641
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 이원면 =========================
+
+> > Saving model of 이원면
+Epoch: 1 | Train Loss:0.06522 Vali Loss: 0.09160 Test Loss: 0.05942
+
+> > Saving model of 이원면
+Epoch: 2 | Train Loss:0.05767 Vali Loss: 0.08979 Test Loss: 0.05844
+
+> > Saving model of 이원면
+Epoch: 3 | Train Loss:0.05719 Vali Loss: 0.08975 Test Loss: 0.05800
+
+> > Saving model of 이원면
+Epoch: 4 | Train Loss:0.05691 Vali Loss: 0.08904 Test Loss: 0.05775
+
+> > Early Stopping | 1 / 5
+Epoch: 5 | Train Loss:0.05671 Vali Loss: 0.08965 Test Loss: 0.05765
+
+> > Early Stopping | 2 / 5
+Epoch: 6 | Train Loss:0.05660 Vali Loss: 0.08920 Test Loss: 0.05751
+
+> > Saving model of 이원면
+Epoch: 7 | Train Loss:0.05643 Vali Loss: 0.08893 Test Loss: 0.05750
+
+> > Saving model of 이원면
+Epoch: 8 | Train Loss:0.05631 Vali Loss: 0.08867 Test Loss: 0.05743
+
+> > Early Stopping | 1 / 5
+Epoch: 9 | Train Loss:0.05620 Vali Loss: 0.08900 Test Loss: 0.05737
+
+> > Early Stopping | 2 / 5
+Epoch: 10 | Train Loss:0.05612 Vali Loss: 0.08912 Test Loss: 0.05735
+
+> > Early Stopping | 3 / 5
+Epoch: 11 | Train Loss:0.05599 Vali Loss: 0.08885 Test Loss: 0.05749
+
+> > Early Stopping | 4 / 5
+Epoch: 12 | Train Loss:0.05589 Vali Loss: 0.08904 Test Loss: 0.05726
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 정림동 =========================
+
+> > Saving model of 정림동
+Epoch: 1 | Train Loss:0.04814 Vali Loss: 0.04173 Test Loss: 0.03623
+
+> > Saving model of 정림동
+Epoch: 2 | Train Loss:0.04119 Vali Loss: 0.04153 Test Loss: 0.03578
+
+> > Saving model of 정림동
+Epoch: 3 | Train Loss:0.04064 Vali Loss: 0.04094 Test Loss: 0.03520
+
+> > Early Stopping | 1 / 5
+Epoch: 4 | Train Loss:0.04032 Vali Loss: 0.04189 Test Loss: 0.03531
+
+> > Saving model of 정림동
+Epoch: 5 | Train Loss:0.04014 Vali Loss: 0.04084 Test Loss: 0.03478
+
+> > Early Stopping | 1 / 5
+Epoch: 6 | Train Loss:0.03998 Vali Loss: 0.04086 Test Loss: 0.03456
+
+> > Saving model of 정림동
+Epoch: 7 | Train Loss:0.03987 Vali Loss: 0.04068 Test Loss: 0.03446
+
+> > Early Stopping | 1 / 5
+Epoch: 8 | Train Loss:0.03975 Vali Loss: 0.04072 Test Loss: 0.03453
+
+> > Early Stopping | 2 / 5
+Epoch: 9 | Train Loss:0.03967 Vali Loss: 0.04096 Test Loss: 0.03453
+
+> > Early Stopping | 3 / 5
+Epoch: 10 | Train Loss:0.03958 Vali Loss: 0.04103 Test Loss: 0.03448
+
+> > Saving model of 정림동
+Epoch: 11 | Train Loss:0.03951 Vali Loss: 0.04065 Test Loss: 0.03439
+
+> > Early Stopping | 1 / 5
+Epoch: 12 | Train Loss:0.03946 Vali Loss: 0.04128 Test Loss: 0.03448
+
+> > Early Stopping | 2 / 5
+Epoch: 13 | Train Loss:0.03939 Vali Loss: 0.04067 Test Loss: 0.03431
+
+> > Early Stopping | 3 / 5
+Epoch: 14 | Train Loss:0.03933 Vali Loss: 0.04111 Test Loss: 0.03440
+
+> > Early Stopping | 4 / 5
+Epoch: 15 | Train Loss:0.03925 Vali Loss: 0.04119 Test Loss: 0.03437
+
+> > Saving model of 정림동
+Epoch: 16 | Train Loss:0.03920 Vali Loss: 0.04053 Test Loss: 0.03421
+
+> > Early Stopping | 1 / 5
+Epoch: 17 | Train Loss:0.03913 Vali Loss: 0.04107 Test Loss: 0.03426
+
+> > Early Stopping | 2 / 5
+Epoch: 18 | Train Loss:0.03907 Vali Loss: 0.04183 Test Loss: 0.03432
+
+> > Early Stopping | 3 / 5
+Epoch: 19 | Train Loss:0.03904 Vali Loss: 0.04138 Test Loss: 0.03436
+
+> > Early Stopping | 4 / 5
+Epoch: 20 | Train Loss:0.03895 Vali Loss: 0.04244 Test Loss: 0.03461
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+
+
+========================= Start Train for 홍성읍 =========================
+
+> > Saving model of 홍성읍
+Epoch: 1 | Train Loss:0.06885 Vali Loss: 0.07239 Test Loss: 0.04371
+
+> > Saving model of 홍성읍
+Epoch: 2 | Train Loss:0.05978 Vali Loss: 0.07061 Test Loss: 0.04299
+
+> > Saving model of 홍성읍
+Epoch: 3 | Train Loss:0.05897 Vali Loss: 0.06932 Test Loss: 0.04221
+
+> > Saving model of 홍성읍
+Epoch: 4 | Train Loss:0.05847 Vali Loss: 0.06909 Test Loss: 0.04213
+
+> > Saving model of 홍성읍
+Epoch: 5 | Train Loss:0.05813 Vali Loss: 0.06844 Test Loss: 0.04116
+
+> > Saving model of 홍성읍
+Epoch: 6 | Train Loss:0.05787 Vali Loss: 0.06843 Test Loss: 0.04121
+
+> > Saving model of 홍성읍
+Epoch: 7 | Train Loss:0.05768 Vali Loss: 0.06825 Test Loss: 0.04093
+
+> > Saving model of 홍성읍
+Epoch: 8 | Train Loss:0.05750 Vali Loss: 0.06791 Test Loss: 0.04095
+
+> > Early Stopping | 1 / 5
+Epoch: 9 | Train Loss:0.05736 Vali Loss: 0.06807 Test Loss: 0.04106
+
+> > Early Stopping | 2 / 5
+Epoch: 10 | Train Loss:0.05722 Vali Loss: 0.06856 Test Loss: 0.04123
+
+> > Early Stopping | 3 / 5
+Epoch: 11 | Train Loss:0.05710 Vali Loss: 0.06899 Test Loss: 0.04146
+
+> > Early Stopping | 4 / 5
+Epoch: 12 | Train Loss:0.05699 Vali Loss: 0.06807 Test Loss: 0.04087
+
+> > Early Stopping | 5 / 5
+> > Early Stopping !
+
+=========================================================================
+

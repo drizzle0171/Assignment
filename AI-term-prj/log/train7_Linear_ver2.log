@@ -1,0 +1,27 @@
+
+========================= Start Train for 공주 =========================
+
+> > Saving model of 공주
+Epoch: 1 | Train Loss:0.06157 Vali Loss: 0.06945 Test Loss: 0.04635
+
+> > Saving model of 공주
+Epoch: 2 | Train Loss:0.05390 Vali Loss: 0.06813 Test Loss: 0.04494
+
+> > Saving model of 공주
+Epoch: 3 | Train Loss:0.05253 Vali Loss: 0.06623 Test Loss: 0.04331
+
+> > Saving model of 공주
+Epoch: 4 | Train Loss:0.05192 Vali Loss: 0.06567 Test Loss: 0.04308
+
+> > Saving model of 공주
+Epoch: 5 | Train Loss:0.05164 Vali Loss: 0.06519 Test Loss: 0.04290
+
+> > Saving model of 공주
+Epoch: 6 | Train Loss:0.05144 Vali Loss: 0.06444 Test Loss: 0.04281
+
+> > Early Stopping | 1 / 5
+Epoch: 7 | Train Loss:0.05128 Vali Loss: 0.06454 Test Loss: 0.04278
+
+> > Saving model of 공주
+Epoch: 8 | Train Loss:0.05122 Vali Loss: 0.06407 Test Loss: 0.04270
+
